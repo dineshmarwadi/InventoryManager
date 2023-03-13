@@ -28,4 +28,5 @@
 •	Used Antd as CSS framework.
 •	Redux might need to implement in future as application become more complex. 
 
-![image](https://user-images.githubusercontent.com/17910738/224832080-208badec-46ca-4cc6-a243-0cb65ac822c5.png)
+![Tiger](https://user-images.githubusercontent.com/17910738/224832703-eac39666-7545-4297-9e14-ac9849f23be7.png)
+
